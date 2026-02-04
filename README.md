@@ -1,1 +1,34 @@
-# hola
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTP-8"> <!--encode character-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HALO PINA</title>
+</head>
+
+<body>
+    <h1>HALO PINA</h1>
+    <img
+    src="akoh.jpg"
+    width="200"
+    >
+    <p>aku baru ngeh njir kalo aku belom bales chatmu wkwkwk. orry yhhh, aku lupa dan chattmu tenggelem jg huhuuu</p>
+    <p>ya bagus lah kalo kamu mau cutoff, wong dianya jg gaje.</p>
+    <p>tambah cape kalo terus2an gitu, masih ada yg lain contohnya aku eakkk</p>
+    <h2>KM TAU GA</h2>
+    <p>anjai aku dah bisa ngoding, ini masih dasar bangettttttttt</p>
+    <p>ternyata seru lochhh, ayo belajar juga</p>
+    <p>belajarnya tuh mulai dari....</p>
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVASCRIPT</li>
+        <li>dll</li>
+    </ol>
+    <p>ini masih html btw dan ngoding web iyaaa dan make apk yg namanya visual studio code</p>
+    <h2>TRUSSSS</h2>
+    <p>aku sekarang dah official magang di perpus eakkk</p>
+    <p>jadi babu perpus</p>
+    <p>kerjaannya monoton sih, selama 6 bulan kek gini.... oh hell nah</p>
+    <p>hufftttt</p>
+</body>
